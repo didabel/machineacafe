@@ -1,0 +1,10 @@
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/bin/Debug/netcoreapp2.2/MachineCafeClientApp.deps.json
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/bin/Debug/netcoreapp2.2/MachineCafeClientApp.runtimeconfig.json
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/bin/Debug/netcoreapp2.2/MachineCafeClientApp.runtimeconfig.dev.json
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/bin/Debug/netcoreapp2.2/MachineCafeClientApp.dll
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/bin/Debug/netcoreapp2.2/MachineCafeClientApp.pdb
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/obj/Debug/netcoreapp2.2/MachineCafeClientApp.csproj.CoreCompileInputs.cache
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/obj/Debug/netcoreapp2.2/MachineCafeClientApp.AssemblyInfoInputs.cache
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/obj/Debug/netcoreapp2.2/MachineCafeClientApp.AssemblyInfo.cs
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/obj/Debug/netcoreapp2.2/MachineCafeClientApp.dll
+/Users/bakkou/Projects/MachineCafeClientApp/MachineCafeClientApp/obj/Debug/netcoreapp2.2/MachineCafeClientApp.pdb

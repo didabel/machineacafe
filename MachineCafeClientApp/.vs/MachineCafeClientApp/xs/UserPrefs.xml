@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A3FC9F50-813E-4C09-A4C7-1D00876D9475}|Default">
+  <MonoDevelop.Ide.ItemProperties.MachineCafeClientApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MachineCafeClientApp/TraitememtCommande.cs">
+    <Files>
+      <File FileName="MachineCafeClientApp/Program.cs" Line="25" Column="33" />
+      <File FileName="MachineCafeClientApp/TraitememtCommande.cs" Line="41" Column="1" />
+      <File FileName="MachineCafeClientApp/SaisieCommande.cs" Line="26" Column="52" />
+      <File FileName="MachineCafeClientApp/InfoCommande.cs" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MachineCafeClientApp" expanded="True">
+            <Node name="MachineCafeClientApp" expanded="True">
+              <Node name="TraitememtCommande.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

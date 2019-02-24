@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineCafeApi", "MachineCafeApi.csproj", "{257F2F45-2632-4986-8708-419C57E29D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineCafeApi.Tests", "..\MachineCafeApi.Tests\MachineCafeApi.Tests.csproj", "{39A0615D-D9EE-49FA-A5C6-9EDE1500F87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257F2F45-2632-4986-8708-419C57E29D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257F2F45-2632-4986-8708-419C57E29D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257F2F45-2632-4986-8708-419C57E29D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257F2F45-2632-4986-8708-419C57E29D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A0615D-D9EE-49FA-A5C6-9EDE1500F87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A0615D-D9EE-49FA-A5C6-9EDE1500F87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A0615D-D9EE-49FA-A5C6-9EDE1500F87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A0615D-D9EE-49FA-A5C6-9EDE1500F87F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
